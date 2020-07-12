@@ -4,6 +4,7 @@ Creating a new branch is quick AND simple.
 test --no--ff;
 test branch dev
 test bug
+<<<<<<< HEAD
 
 add branch
 
@@ -12,3 +13,8 @@ add branch
 debug 1:two line;
 11:09 add new note;
 
+=======
+add branch
+
+11：05 add branch dev note;
+>>>>>>> ab75aa0d263fd4a5d3d6b946f13194649b7ea523
